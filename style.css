@@ -181,8 +181,7 @@ button {
   .panel-container {
     width: 390px;
     height: 590px;
-
-    margin: 20px 12px;
+    margin: 70px 10px;
     max-width: 355px;
   }
   .image-respresentation img {
